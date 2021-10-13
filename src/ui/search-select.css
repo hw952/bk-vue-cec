@@ -5,7 +5,6 @@
     overflow: inherit;
     z-index: 9;
     height: 32px;
-    background-color: #fff;
     .bk-search-select {
         display: flex;
         flex-direction: row;
@@ -155,7 +154,7 @@
         }
     }
     .bk-select-tips {
-        color: #F95F5B;
+        color: #EA3636;
         font-size: 12px;
         margin-top: 5px;
         display: flex;
